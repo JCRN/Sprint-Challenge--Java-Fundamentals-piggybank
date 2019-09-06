@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class Main {
 
-    // Instantiate DecimalFormat for currency formatting
+    // Instantiate DecimalFormat for currency formatting ($)
     static DecimalFormat fp = new DecimalFormat("$###,###.00");
 
     /********** Fields **********/
